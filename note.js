@@ -1,15 +1,18 @@
-#Note Application
-
-Branches Names:
- //-1. ft_application_setup
- //-2. ft_application_functionality
-
- class NotesApplication {
+class NotesApplication {
 	constructor (author){
 		this.author = author ;
+		this.note = note.pu
 		
 		
 	}
 	
+}
+	class  note_content {
+
+	
+}
+
+
+class listNotes {
 	
 }
